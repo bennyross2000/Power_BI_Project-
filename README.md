@@ -1,6 +1,5 @@
-
-Power BI Project
-This repository contains the comprehensive Quarterly report project aimed at elevating business intelligence practices for a medium-sized international retailer. The project utilizes Microsoft Power BI to transform accumulated sales data into actionable insights, tailored for C-suite executives.
+Retail Business Intelligence Project
+Welcome to the Retail Business Intelligence Project! This repository contains the comprehensive Quarterly report project aimed at elevating business intelligence practices for a medium-sized international retailer. The project utilizes Microsoft Power BI to transform accumulated sales data into actionable insights, tailored for C-suite executives.
 
 Project Overview
 The project involves designing a comprehensive Quarterly report using Power BI, focusing on extracting and transforming data from various sources, building a star schema data model, and constructing interactive report pages to present insights to stakeholders.
